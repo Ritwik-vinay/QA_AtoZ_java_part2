@@ -8,4 +8,7 @@ public class Inheriance_Parent {
         System.out.println("I will aquire properties from my parent ");
 
     }
+
+
 }
+
