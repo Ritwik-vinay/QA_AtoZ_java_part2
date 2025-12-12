@@ -1,3 +1,5 @@
+package AllTopics;
+
 public class swapTwoNumberConcept {
     public static void main(String[] args) {
         swapTwoNum sn = new swapTwoNum();

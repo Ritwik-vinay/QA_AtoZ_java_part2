@@ -1,3 +1,5 @@
+package AllTopics;
+
 public class ArmstrongNumber3Values {
     public static void main(String[] args) {
 

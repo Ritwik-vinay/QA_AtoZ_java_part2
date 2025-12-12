@@ -1,3 +1,5 @@
+package AllTopics;
+
 public class digitsInTheNumberConcept {
     public static void main(String[] args) {
         digitInNumberChecker dn = new digitInNumberChecker(1565);

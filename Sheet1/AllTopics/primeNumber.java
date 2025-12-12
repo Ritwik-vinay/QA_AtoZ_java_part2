@@ -1,3 +1,5 @@
+package AllTopics;
+
 public class primeNumber {
     public static void main(String[] args) {
         primeNumberChecker pm = new primeNumberChecker();

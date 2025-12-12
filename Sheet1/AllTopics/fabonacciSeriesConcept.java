@@ -1,3 +1,5 @@
+package AllTopics;
+
 public class fabonacciSeriesConcept {
     public static void main(String[] args) {
         fabonacciSeries fs = new fabonacciSeries();

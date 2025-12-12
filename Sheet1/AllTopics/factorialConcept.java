@@ -1,3 +1,5 @@
+package AllTopics;
+
 public class factorialConcept{
     public static void main(String[] args) {
         factorialChecker fc= new factorialChecker(5);
