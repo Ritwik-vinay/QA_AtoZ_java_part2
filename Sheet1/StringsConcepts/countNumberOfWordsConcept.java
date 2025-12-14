@@ -14,10 +14,6 @@ class countNumberOfWords{
         for (String word: words){
             count++;
         }
-//        for (int i=0;i<=inputStr.length()-1;i++){
-//            if (inputStr.charAt(i)!=' ')
-//            count= count+ i;
-//        }
         System.out.println("Number of words in the string is : " + count);
     }
 }
